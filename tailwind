@@ -1,0 +1,12 @@
+module.exports = {
+  content: ['./index.html', './src/**/*.{js,jsx}'],
+  theme: {
+    extend: {
+      colors: {
+        romanticPink: '#F8C8D8',
+        softBlue: '#DDEFFE'
+      }
+    }
+  },
+  plugins: []
+};
